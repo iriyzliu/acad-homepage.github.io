@@ -53,12 +53,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 💻 Professional Experience
-- *2024.01 - Present*, Research Assistant @[Asia Case Research Centre, The University of Hong Kong](https://www.acrc.hku.hk/), Hong Kong SAR.
-- *2023.08 - 2023.11*, Data Product Manager Intern @[Kuaishou](https://kuaishou.cn/about/index.html), China.
-- *2022.04* Business-Intelligence Data Analyst Intern @[Chi-Forest China](https://www.yuanqisenlin.com), China.
-- *2020.10 - 2021.02*, X-Venturer Associate @[PwC China], China.
-- *2019.09 - 2020.04*, Course Assistant @[iMBA Program, University of Illinois at Urbana Champaign](https://giesonline.illinois.edu/explore-programs/online-mba), United States.
-- *2019.01 - 2020.01*, Project Manager & Senior Consultant @[EntreCORPS Consulting (https://giesbusiness.illinois.edu/entrecorps), United States.
-- *2017.01 - 2018.01* Peer Advisor @[Gies College of Business, University of Illinois at Urbana Champaign], United States
+
+- *2024.01 - Present*, Research Assistant [Asia Case Research Centre, The University of Hong Kong](https://www.acrc.hku.hk/), Hong Kong SAR.
+- *2023.08 - 2023.11*, Data Product Manager Intern [Kuaishou](https://kuaishou.cn/about/index.html), China.
+- *2022.04* Business-Intelligence Data Analyst Intern [Chi-Forest China](https://www.yuanqisenlin.com), China.
+- *2020.10 - 2021.02*, X-Venturer Associate [PwC China], China.
+- *2019.09 - 2020.04*, Course Assistant [iMBA Program, University of Illinois at Urbana Champaign](https://giesonline.illinois.edu/explore-programs/online-mba), United States.
+- *2019.01 - 2020.01*, Project Manager & Senior Consultant [EntreCORPS Consulting](https://giesbusiness.illinois.edu/entrecorps), United States.
+- *2017.01 - 2018.01* Peer Advisor [Gies College of Business, University of Illinois at Urbana Champaign], United States
 
 # 🤝 Extracurriculum  
