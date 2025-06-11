@@ -44,13 +44,21 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+
+# 📖 Education
 - *2022.08 - 2023.11*: MSc of Business Analytics
 - *2019.08 - 2020.05*: MSc of Accounting Science - Data Analytics Concentration
 - *2016.08 - 2019.05*: BSc of Accountancy, Informatics Minor
 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Professional Experience
+- *2024.01 - Present*, Research Assistant @[Asia Case Research Centre, The University of Hong Kong] (https://www.acrc.hku.hk/), Hong Kong SAR.
+- *2023.08 - 2023.11*, Data Product Manager Intern @[Kuaishou] (https://kuaishou.cn/about/index.html), China.
+- *2022.04* Business-Intelligence Data Analyst Intern @[Chi-Forest China] (https://www.yuanqisenlin.com), China.
+- *2020.10 - 2021.02*, X-Venturer Associate @[PwC China], China.
+- *2019.09 - 2020.04*, Course Assistant @[iMBA Program, University of Illinois at Urbana Champaign] (https://giesonline.illinois.edu/explore-programs/online-mba), United States.
+- *2019.01 - 2020.01*, Project Manager & Senior Consultant @[EntreCORPS Consulting (https://giesbusiness.illinois.edu/entrecorps), United States.
+- *2017.01 - 2018.01* Peer Advisor @[Gies College of Business, University of Illinois at Urbana Champaign], United States
+
+# 🤝 Extracurriculum  
